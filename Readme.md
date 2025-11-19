@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий: git clone https://github.com/your-username/clothing-store.git
 cd clothing-store
 2. Установите зависимости: npm i
-3. Создайте файл .env на основе .env.example: 
+3. Создайте файл .env: 
 
 DB_HOST=localhost
 DB_PORT=3306
